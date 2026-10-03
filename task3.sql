@@ -1,0 +1,5 @@
+
+DELETE FROM Restaurants
+WHERE rating < 3.5;
+
+SELECT * FROM Restaurants;
